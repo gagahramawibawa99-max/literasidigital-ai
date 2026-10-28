@@ -1,1 +1,227 @@
+50 Istilah Literasi Digital yang Berkaitan dengan Pembuatan Buku dan Jurnal Ilmiah
 
+Pendahuluan
+
+Di era digital, proses pembuatan buku dan penulisan jurnal ilmiah semakin mudah dengan bantuan teknologi. Berbagai perangkat lunak, platform publikasi, perpustakaan digital, dan kecerdasan buatan (Artificial Intelligence/AI) dapat membantu penulis dalam mencari referensi, menyusun naskah, mengedit tulisan, hingga menerbitkan karya secara online.
+
+Namun, kemudahan tersebut perlu diimbangi dengan pemahaman literasi digital. Penulis harus mampu menggunakan teknologi secara efektif, mengevaluasi informasi, menghargai hak cipta, dan menjaga integritas akademik.
+
+Berikut adalah 50 istilah penting dalam literasi digital yang berkaitan dengan pembuatan buku dan jurnal ilmiah.
+
+A. Istilah Dasar Penulisan Buku dan Jurnal
+
+1. Literasi Digital
+
+Kemampuan untuk menggunakan, memahami, mengevaluasi, dan menciptakan informasi melalui teknologi digital secara kritis, aman, dan bertanggung jawab.
+
+2. E-book (Electronic Book)
+
+Buku dalam format digital yang dapat dibaca melalui komputer, tablet, ponsel, atau perangkat pembaca elektronik.
+
+3. E-journal (Electronic Journal)
+
+Jurnal yang diterbitkan dan diakses dalam bentuk digital melalui situs web atau platform jurnal ilmiah.
+
+4. Naskah Digital (Digital Manuscript)
+
+Dokumen elektronik yang berisi tulisan buku, artikel, atau karya ilmiah sebelum diterbitkan.
+
+5. Self-publishing
+
+Proses menerbitkan buku secara mandiri oleh penulis tanpa harus menggunakan penerbit tradisional.
+
+6. Desktop Publishing (DTP)
+
+Proses menata teks, gambar, dan elemen visual menggunakan perangkat lunak untuk menghasilkan buku, majalah, atau dokumen yang siap diterbitkan.
+
+7. Layout Buku
+
+Pengaturan tata letak teks, gambar, judul, margin, nomor halaman, dan elemen lainnya agar buku mudah dibaca dan terlihat profesional.
+
+8. Tipografi
+
+Seni dan teknik memilih serta mengatur huruf agar tulisan mudah dibaca dan memiliki tampilan visual yang sesuai.
+
+9. Metadata Buku
+
+Informasi deskriptif tentang buku, seperti judul, nama penulis, penerbit, tahun terbit, ISBN, dan kata kunci.
+
+10. ISBN (International Standard Book Number)
+
+Nomor identifikasi standar internasional untuk edisi atau format tertentu dari sebuah buku yang diterbitkan. ISBN membantu identifikasi dan pengelolaan buku dalam sistem distribusi dan katalog.
+
+B. Istilah Penulisan dan Pengelolaan Jurnal Ilmiah
+
+11. Artikel Ilmiah
+
+Tulisan yang menyajikan hasil penelitian, kajian pustaka, atau pembahasan ilmiah berdasarkan metode dan sumber yang dapat dipertanggungjawabkan.
+
+12. Jurnal Ilmiah
+
+Publikasi berkala yang memuat artikel ilmiah dalam bidang tertentu dan umumnya menerapkan proses penilaian akademik.
+
+13. Abstract (Abstrak)
+
+Ringkasan singkat yang menggambarkan tujuan, metode, hasil, dan kesimpulan suatu penelitian.
+
+14. Keywords (Kata Kunci)
+
+Kata atau frasa utama yang mewakili topik penelitian dan membantu pembaca menemukan artikel melalui mesin pencari atau basis data ilmiah.
+
+15. Literature Review (Tinjauan Pustaka)
+
+Proses menelaah dan merangkum penelitian terdahulu yang relevan untuk memahami perkembangan pengetahuan dan menemukan kesenjangan penelitian.
+
+16. Citation (Sitasi)
+
+Penyebutan sumber yang digunakan dalam tulisan untuk mengakui gagasan, data, atau pernyataan yang berasal dari karya lain.
+
+17. Reference List (Daftar Pustaka)
+
+Daftar sumber yang dirujuk dalam tulisan ilmiah, disusun sesuai gaya sitasi yang ditetapkan.
+
+18. DOI (Digital Object Identifier)
+
+Pengidentifikasi digital permanen yang digunakan untuk membedakan dan menemukan objek digital, seperti artikel ilmiah atau publikasi penelitian.
+
+19. Peer Review (Penelaahan Sejawat)
+
+Proses evaluasi karya ilmiah oleh ahli di bidang terkait sebelum artikel diputuskan untuk diterbitkan.
+
+20. Open Access (Akses Terbuka)
+
+Model publikasi yang memungkinkan pembaca mengakses karya ilmiah secara online tanpa biaya akses, dengan ketentuan penggunaan sesuai lisensi yang berlaku.
+
+C. Istilah Teknologi dan Perangkat Lunak Penulisan
+
+21. Word Processor
+
+Perangkat lunak pengolah kata untuk membuat, mengedit, memformat, dan menyimpan dokumen. Contohnya Microsoft Word dan Google Docs.
+
+22. Cloud Computing
+
+Teknologi yang memungkinkan pengguna menyimpan data dan menggunakan layanan komputasi melalui internet tanpa harus bergantung sepenuhnya pada perangkat lokal.
+
+23. Cloud Storage
+
+Layanan penyimpanan berkas secara online yang memungkinkan dokumen buku dan jurnal diakses melalui perangkat yang terhubung ke internet.
+
+24. Collaborative Writing
+
+Proses menulis bersama dengan orang lain menggunakan perangkat digital yang mendukung penyuntingan, komentar, atau pelacakan perubahan.
+
+25. Version Control (Kontrol Versi)
+
+Metode untuk melacak perubahan pada dokumen atau berkas sehingga penulis dapat mengetahui perkembangan dan membandingkan versi yang berbeda.
+
+26. Reference Manager
+
+Perangkat lunak untuk mengumpulkan, mengatur, dan menyisipkan referensi serta menyusun daftar pustaka. Contohnya Zotero, Mendeley, dan EndNote.
+
+27. Citation Style (Gaya Sitasi)
+
+Aturan penulisan kutipan dan daftar pustaka. Contohnya APA, MLA, Chicago, dan IEEE.
+
+28. PDF (Portable Document Format)
+
+Format dokumen digital yang mempertahankan tampilan tata letak ketika dibuka pada berbagai perangkat.
+
+29. EPUB (Electronic Publication)
+
+Format buku elektronik yang dirancang untuk mendukung pembacaan digital dan penyesuaian tampilan teks pada perangkat yang kompatibel.
+
+30. OCR (Optical Character Recognition)
+
+Teknologi pengenalan karakter optik yang mengubah teks dalam gambar atau hasil pemindaian dokumen menjadi teks digital yang dapat dicari dan, biasanya, diedit.
+
+D. Istilah Publikasi dan Pencarian Referensi Digital
+
+31. Digital Publishing (Penerbitan Digital)
+
+Proses menerbitkan dan mendistribusikan buku, artikel, atau konten melalui media digital.
+
+32. Repository Institusi
+
+Tempat penyimpanan digital yang dikelola institusi, seperti universitas, untuk menghimpun dan menyediakan akses terhadap karya ilmiah, skripsi, tesis, disertasi, atau publikasi lainnya.
+
+33. Database Akademik
+
+Basis data yang menyediakan informasi bibliografis atau dokumen ilmiah untuk keperluan pencarian referensi dan penelitian.
+
+34. Google Scholar
+
+Layanan pencarian yang membantu pengguna menemukan literatur ilmiah, seperti artikel jurnal, tesis, buku akademik, dan publikasi lainnya.
+
+35. DOI Resolver
+
+Layanan yang menerjemahkan atau mengarahkan DOI ke halaman objek digital yang bersangkutan. Salah satu layanan yang umum digunakan adalah doi.org.
+
+36. Indexing (Pengindeksan)
+
+Proses memasukkan informasi publikasi ke dalam suatu indeks atau basis data agar dapat ditemukan dan ditelusuri. Pengindeksan tidak otomatis menjamin kualitas sebuah jurnal.
+
+37. ORCID
+
+Pengenal digital unik bagi peneliti yang membantu membedakan identitas akademik seseorang dari peneliti lain yang memiliki nama serupa.
+
+38. Plagiarisme
+
+Penggunaan kata, gagasan, atau karya orang lain tanpa pengakuan atau atribusi yang semestinya. Plagiarisme dapat terjadi baik secara sengaja maupun tidak sengaja.
+
+39. Similarity Check
+
+Pemeriksaan kemiripan teks dengan sumber lain menggunakan perangkat lunak. Hasil kemiripan perlu ditinjau secara kontekstual karena persentase kemiripan bukan bukti otomatis adanya plagiarisme.
+
+40. Creative Commons
+
+Kumpulan lisensi yang memungkinkan pencipta memberikan izin penggunaan karyanya kepada publik dengan syarat tertentu, misalnya pencantuman atribusi atau pembatasan penggunaan komersial.
+
+E. Istilah Kecerdasan Buatan (AI) dalam Pembuatan Buku dan Jurnal
+
+41. Artificial Intelligence (AI)
+
+Teknologi yang memungkinkan sistem komputer melakukan tugas yang biasanya membutuhkan kemampuan manusia, seperti mengenali pola, memproses bahasa, dan menghasilkan konten.
+
+42. Generative AI
+
+Jenis AI yang dapat menghasilkan konten baru, seperti teks, gambar, audio, atau kode, berdasarkan pola yang dipelajari dari data.
+
+43. Large Language Model (LLM)
+
+Model AI yang dilatih untuk memproses dan menghasilkan bahasa. Model ini dapat membantu menyusun kerangka buku, menjelaskan konsep, dan memberikan saran penyuntingan.
+
+44. Prompt
+
+Instruksi atau masukan yang diberikan kepada AI untuk mengarahkan hasil yang diinginkan. Prompt yang jelas dan spesifik biasanya membantu menghasilkan jawaban yang lebih relevan.
+
+45. Prompt Engineering
+
+Proses merancang dan menyempurnakan instruksi kepada AI agar hasilnya lebih sesuai dengan tujuan, konteks, dan batasan tugas.
+
+46. AI-assisted Writing
+
+Penggunaan AI sebagai alat bantu dalam proses penulisan, misalnya untuk menyusun kerangka, memperbaiki tata bahasa, mencari alternatif judul, atau menyederhanakan penjelasan.
+
+47. AI Hallucination
+
+Kondisi ketika AI menghasilkan informasi yang terdengar meyakinkan tetapi tidak akurat, tidak didukung bukti, atau bahkan dibuat-buat. Karena itu, referensi dan fakta yang diberikan AI harus diperiksa.
+
+48. AI Content Detection
+
+Penggunaan perangkat atau metode untuk memperkirakan apakah suatu teks dihasilkan oleh AI. Hasilnya tidak selalu akurat dan tidak seharusnya dijadikan satu-satunya bukti pelanggaran akademik.
+
+49. Human-in-the-loop
+
+Pendekatan yang melibatkan manusia dalam memeriksa, mengarahkan, dan memvalidasi hasil kerja AI sebelum digunakan atau dipublikasikan.
+
+50. AI Ethics (Etika AI)
+
+Prinsip penggunaan AI secara bertanggung jawab, termasuk memperhatikan kejujuran akademik, privasi, transparansi, keadilan, hak cipta, dan akurasi informasi.
+
+Penutup
+
+Pemahaman terhadap istilah literasi digital membantu penulis mengelola proses pembuatan buku dan jurnal dengan lebih efektif. Penguasaan perangkat penulisan, pengelolaan referensi, publikasi digital, dan pemanfaatan AI dapat meningkatkan produktivitas sekaligus mendukung kualitas karya.
+
+Meskipun AI dapat membantu mempercepat proses penulisan, tanggung jawab atas keakuratan informasi, orisinalitas, penggunaan sumber, dan kualitas akhir karya tetap berada pada penulis. Oleh karena itu, teknologi perlu digunakan secara kritis, etis, dan bertanggung jawab.
+
+Semoga kumpulan istilah ini bermanfaat bagi mahasiswa, peneliti, penulis, dan siapa saja yang ingin mengembangkan kemampuan literasi digital di era kecerdasan buatan.
